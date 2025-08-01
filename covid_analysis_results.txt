@@ -1,0 +1,8 @@
+COVID-19 in Afghanistan - Analysis Results
+==================================================
+First case reported on: 2020-01-05
+Total cases: 235,214.0
+Total deaths: 7,998.0
+Highest daily cases: 12,314.0 on 2021-06-27
+Highest daily deaths: 595.0 on 2021-06-20
+Current case fatality rate: 3.40%
